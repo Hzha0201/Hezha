@@ -6,3 +6,4 @@
    <title>LOL</title>
 </head>
 <body>  
+<img src=“1.jpg.jpg”/>
