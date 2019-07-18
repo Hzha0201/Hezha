@@ -1,14 +1,15 @@
-    
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>快乐的贺渣</title>
-    <style type="text/css">      
+    <style type="text/css">
+        body{
+             background-image： url("1.jpg"/); 
 </head>
 <body>
 <h1>戏命师</h1>    
-<img src="/0.jpg"/ >
+<img src="0.jpg"/ >
 <P>我从污秽和淤泥中复苏，我是灼热的青莲，我是，唯一的美</P>
 <P>我的剧场，名叫人心</P>
 <P>大幕拉开前的片刻愉悦</P>
